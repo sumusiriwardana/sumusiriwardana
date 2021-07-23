@@ -10,7 +10,7 @@
 - 📚 I'm a book lover and you can see what I'm currently reading via [Goodreads](https://www.goodreads.com/user/show/2445065-sumudu)
 - ⚡ Fun fact: I can never decide whether I like dogs more than cats or vise versa. 
 
-## Connect with me
+
 
 
 
