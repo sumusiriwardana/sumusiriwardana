@@ -5,9 +5,15 @@
 - 🌱 I’m currently learning HTML, CSS, and JavaScript
 - 👯 I’m Always ready to collaborate with other learners
 - 📝 I regularly write articles on [https://sumudusiriwardana.hashnode.dev/](https://sumudusiriwardana.hashnode.dev/)
-- 🤙 How to reach me: via [Twitter](https://twitter.com/sumusiriwardana), or via [LinkedIn](https://www.linkedin.com/in/sumudusiriwardana/). 
 - 📚 I'm a book lover and you can see what I'm currently reading via [Goodreads](https://www.goodreads.com/user/show/2445065-sumudu)
 - ⚡ Fun fact: I can never decide whether I like dogs more than cats or vise versa. 
+
+
+### 🤙 How to reach me
+
+[Twitter](https://twitter.com/sumusiriwardana)
+</br>
+[LinkedIn](https://www.linkedin.com/in/sumudusiriwardana/)
 
 
 
