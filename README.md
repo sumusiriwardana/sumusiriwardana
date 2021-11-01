@@ -8,6 +8,17 @@
 - 📚 I'm a book lover and you can see what I'm currently reading via [Goodreads](https://www.goodreads.com/user/show/2445065-sumudu)
 - ⚡ Fun fact: I can never decide whether I like dogs more than cats or vise versa 
 
+### ✍️ Blog
+
+<p>
+  <a href="https://sumudusiriwardana.hashnode.dev/" rel="nofollow">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logocolor=white" style="max-width: 100%;">
+  </a>
+  
+  <a href="https://dev.to/sumusiriwardana" rel="nofollow">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logocolor=white" style="max-width: 100%;">
+  </a>
+</p>
 
 ### 🤙 How to reach me
 
