@@ -36,9 +36,8 @@
 
 <p>
   <img width=48% src="https://github-readme-stats.vercel.app/api?username=sumusiriwardana&show_icons=true&theme=radical" />
-  <img width-48% src=https://github-readme-stats.vercel.app/api/top-langs/?username=sumusiriwardana&layout&theme=radical
+  <img width-48% src=https://github-readme-stats.vercel.app/api/top-langs/?username=sumusiriwardana&layout=compact&theme=radical
 </p>
-
 
 ### � Top Repositories
   
