@@ -39,12 +39,7 @@
   <img width-48% src=https://github-readme-stats.vercel.app/api/top-langs/?username=sumusiriwardana&layout=compact&theme=radical style="max-width: 100%;" />
 </p>
 
-### � Top Repositories
-  
-  <p>
-  <img width=48% src="https://github-readme-stats.vercel.app/api/pin/?username=sumusiriwardana&repo=sumusiriwardana.github.io" />
-  <img width=48% src="https://github-readme-stats.vercel.app/api/pin/?username=sumusiriwardana&repo=web-designs" />
-</p>
+
 
 
 <!---
