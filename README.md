@@ -32,12 +32,9 @@
   </a>
 </p>
 
-<br />
 
-<p>
-  <img width=48% src="https://github-readme-stats.vercel.app/api?username=sumusiriwardana&show_icons=true&theme=radical" style="max-width: 100%;"/>
-  <img width-48% src=https://github-readme-stats.vercel.app/api/top-langs/?username=sumusiriwardana&layout=compact&theme=radical style="max-width: 100%;" />
-</p>
+
+
 
 
 
