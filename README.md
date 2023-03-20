@@ -1,6 +1,6 @@
 # Hi 👋 , I'm Sumudu
 
-### I'm a Project Manager, Developer Advocate, and a newbie Web Developer 😊
+### I'm a Project Manager, and a newbie Web Developer 😊
 
 - 🌱 I’m currently learning HTML, CSS, and JavaScript
 - 👯 I’m always ready to collaborate with other learners
