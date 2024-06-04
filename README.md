@@ -2,7 +2,7 @@
 
 ### I'm a Project Manager, and a newbie Web Developer 😊
 
-- 🌱 I’m currently learning HTML, CSS, and JavaScript
+- 🌱 I’m currently learning JavaScript
 - 👯 I’m always ready to collaborate with other learners
 - 📝 I regularly write articles on [Hashnode](https://sumudusiriwardana.hashnode.dev/) and [Dev.to](https://dev.to/sumusiriwardana)
 - 📚 I'm a book lover and you can see what I'm currently reading via [Goodreads](https://www.goodreads.com/user/show/2445065-sumudu)
