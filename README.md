@@ -1,12 +1,12 @@
 # Hi 👋 , I'm Sumudu
 
-### I'm a Project Manager, and a newbie Web Developer 😊
+### I'm a Project Manager 
 
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m always ready to collaborate with other learners
 - 📝 I regularly write articles on [Hashnode](https://sumudusiriwardana.hashnode.dev/) and [Dev.to](https://dev.to/sumusiriwardana)
 - 📚 I'm a book lover and you can see what I'm currently reading via [Goodreads](https://www.goodreads.com/user/show/2445065-sumudu)
-- ⚡ Fun fact: I can never decide whether I like dogs more than cats or vise versa 
+
 
 ### ✍️ Blog
 
